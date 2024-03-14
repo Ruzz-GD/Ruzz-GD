@@ -1,4 +1,4 @@
-👋 Hi, I’m @AN-NO-NY-MO-US(Ruzz)
+👋 Hi, I’m Ruzz_GD
 
 👀 I’m interested in the world of technology...
 
