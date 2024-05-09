@@ -1,10 +1,7 @@
-<div style="display: flex; ">
-    <img src="./images/rzlogo.png" alt="ruzz" width="50" height="50">
-    <h1 style="color:blue">Ruzz-GD</h1>
-</div>
+<h1 style="color:blue"><img src="./images/rzlogo.png" alt="ruzz" width="50" height="50">Ruzz-GD</h1>
 <h3>I have a passion for coding</h3>
-<h5>If you're interested in collaborating, feel free to reach out to me!</h5>
-<h5>I'm also available for commission work.</h5>
+<h3>If you're interested in collaborating, feel free to reach out to me!</h5>
+<h3>I'm also available for commission work.</h3>
 <h1>My Advanced Expertise</h1>
 <div style="display: flex;">
     <img src="./images/html.png" alt="Html" width="80" height="80">
