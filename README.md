@@ -3,7 +3,7 @@
 <h5>If you're interested in collaborating, feel free to reach out to me!</h5>
 <h5>I'm also available for commission work.</h5>
 
-<div style="display:flex;flex-direction:column;align-items:center;justify-content:center;">
+<div style="display:flex;flex-direction:column;align-items:center;justify-content:center;width:100%;height:100%;">
     <div style="display: flex; ">
         <img src="./images/html.png" alt="Html" width="80" height="80">
         <img src="./images/css.png" alt="Css" width="80" height="80">
