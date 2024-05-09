@@ -1,4 +1,4 @@
-<h1><img src="./images/rzlogo.png" alt="ruzz" width="50" height="50">Ruzz-GD</h1>
+<img src="./images/rzlogo.png" alt="ruzz" width="50" height="50"><h1 style="color:blue">Ruzz-GD</h1>
 <h3>I have a passion for coding</h3>
 <h5>If you're interested in collaborating, feel free to reach out to me!</h5>
 <h5>I'm also available for commission work.</h5>
