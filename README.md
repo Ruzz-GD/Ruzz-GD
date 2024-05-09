@@ -1,4 +1,4 @@
-<div display="flex" align-items="center" justify-content="center"><img src="./images/rzlogo.png" alt="ruzz" width="50" height="50"><h1 color="blue">Ruzz-GD</h1></div>
+<div valign="middle"><img src="./images/rzlogo.png" alt="ruzz" width="50" height="50"><h1 color="blue">Ruzz-GD</h1></div>
 <h3 align="center">I have a passion for coding</h3>
 <h3 align="center">If you're interested in collaborating, feel free to reach out to me!</h5>
 <h3 align="center">I'm also available for commission work.</h3>
