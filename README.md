@@ -1,7 +1,7 @@
-# <img src="./images/rzlogo.png" alt="ruzz" width="50" height="50"> Ruzz-GD
-<h3 align="center">I have a passion for coding</h3>
-<h3 align="center">If you're interested in collaborating, feel free to reach out to me!</h5>
-<h3 align="center">I'm also available for commission work.</h3>
+# <img src="./images/rzlogo.png" alt="ruzz" width="25" height="25"> Ruzz-GD
+<p align="center">I have a passion for coding</p>
+<p align="center">If you're interested in collaborating, feel free to reach out to me!</h5>
+<p align="center">I'm also available for commission work.</p>
 
 ## My Advanced Expertise:
 <div align="center">
