@@ -1,10 +1,12 @@
-<img src="./images/rzlogo.png" alt="ruzz" width="50" height="50"><h1 style="color:blue">Ruzz-GD</h1>
+<div style="display: flex; ">
+    <img src="./images/rzlogo.png" alt="ruzz" width="50" height="50">
+    <h1 style="color:blue">Ruzz-GD</h1>
+</div>
 <h3>I have a passion for coding</h3>
 <h5>If you're interested in collaborating, feel free to reach out to me!</h5>
 <h5>I'm also available for commission work.</h5>
-
 <h1>My Advanced Expertise</h1>
-<div style="display: flex; ">
+<div style="display: flex;">
     <img src="./images/html.png" alt="Html" width="80" height="80">
     <img src="./images/css.png" alt="Css" width="80" height="80">
     <img src="./images/axios.png" alt="Axios" width="80" height="80">
@@ -18,7 +20,7 @@
     <img src="./images/fetch.png" alt="fetch" width="80" height="80">
 </div>
 <h1>My Basic Expertise</h1>
-<div>
+<div style="display: flex; ">
     <img src="./images/js.png" alt="Js" width="80" height="80">
     <img src="./images/bootstrap.jpg" alt="bootstrap" width="80" height="80">
 </div>
