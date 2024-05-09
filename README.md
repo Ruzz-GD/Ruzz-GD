@@ -1,20 +1,25 @@
-<h1>Hello, I'm Ruzhell</h1>
+<h1><img src="./images/rzlogo.png" alt="ruzz" width="50" height="50">Ruzz-GD</h1>
 <h3>I have a passion for coding</h3>
 <h5>If you're interested in collaborating, feel free to reach out to me!</h5>
 <h5>I'm also available for commission work.</h5>
 
-<div style="display:flex;flex-direction:column;align-items:center;justify-content:center;width:100%;height:100%;">
-    <div style="display: flex; ">
-        <img src="./images/html.png" alt="Html" width="80" height="80">
-        <img src="./images/css.png" alt="Css" width="80" height="80">
-        <img src="./images/js.png" alt="Js" width="80" height="80">
-        <img src="./images/vuelogo.png" alt="Vue.js Logo" width="80" height="80">
-        <img src="./images/axios.png" alt="Axios" width="80" height="80">
-    </div>
-    <div style="display: flex; ">
-        <img src="./images/pylogo.png" alt="Python" width="80" height="80">
-        <img src="./images/flask.png" alt="Flask" width="80" height="80">
-        <img src="./images/sqlalchemy.png" alt="sql" width="265" height="100">
-    </div>
+<h1>My Advanced Expertise</h1>
+<div style="display: flex; ">
+    <img src="./images/html.png" alt="Html" width="80" height="80">
+    <img src="./images/css.png" alt="Css" width="80" height="80">
+    <img src="./images/axios.png" alt="Axios" width="80" height="80">
+</div>
+<h1>My Intermediate Expertise</h1>
+<div style="display: flex; ">
+    <img src="./images/vuelogo.png" alt="Vue.js Logo" width="80" height="80">
+    <img src="./images/pylogo.png" alt="Python" width="80" height="80">
+    <img src="./images/flask.png" alt="Flask" width="80" height="80">
+    <img src="./images/sqlalchemy.png" alt="sql" width="200" height="100">
+    <img src="./images/fetch.png" alt="fetch" width="80" height="80">
+</div>
+<h1>My Basic Expertise</h1>
+<div>
+    <img src="./images/js.png" alt="Js" width="80" height="80">
+    <img src="./images/bootstrap.jpg" alt="bootstrap" width="80" height="80">
 </div>
 
