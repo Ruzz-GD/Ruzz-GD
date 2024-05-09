@@ -15,7 +15,8 @@
         <img src="./images/pylogo.png" alt="Python" width="80" height="80">
         <img src="./images/flask.png" alt="Flask" width="80" height="80">
     </div>
-    <div style="display: flex; align-items:center;justify-content:center  ">
+    <div style="display: flex; align-items:center;justify-content:center;">
         <img src="./images/sqlalchemy.png" alt="Vue.js Logo" width="200" height="100">
     </div>
 </div>
+
