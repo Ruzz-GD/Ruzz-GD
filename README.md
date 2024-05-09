@@ -1,7 +1,7 @@
-# <img src="./images/rzlogo.png" alt="ruzz" width="30" height="30"> Ruzz-GD
-<p align="center" margin="0">Coding Is My Life</p>
-<p align="center" margin="0">If you're interested in collaborating, feel free to reach out to me!</h5>
-<p align="center" margin="0">I'm also available for commission work.</p>
+# <img src="./images/rzlogo.png" alt="ruzz" width="30" height="30"> Ruzz
+<p align="center">Coding Is My Life</p>
+<p align="center">If you're interested in collaborating, feel free to reach out to me!</h5>
+<p align="center">I'm also available for commission work.</p>
 
 ## My Advanced Expertise:
 <div align="center">
