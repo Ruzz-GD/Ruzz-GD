@@ -1,4 +1,10 @@
 # <img src="./images/rzlogo.png" alt="ruzz" width="30" height="30"> Ruzz
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 <p align="center">Coding Is My Life</p>
 <p align="center">If you're interested in collaborating, feel free to reach out to me!</h5>
 <p align="center">I'm also available for commission work.</p>
