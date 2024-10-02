@@ -1,0 +1,54 @@
+GIT CLONE ORIGIN <BRANCH-NAME>: To use the repository on your local machine/system
+
+GIT PULL ORIGIN <BRANCH-NAME>: To get the updated <BRANCH-NAME>
+
+GIT PUSH ORIGIN <BRANCH-NAME>: To push your changes to <BRANCH-NAME> or to update it
+
+GIT ADD <FILE OR DIRECTORY NAME>: Used to add changes to the staging area
+
+GIT ADD .: Used to add changes to all areas
+
+GIT COMMIT -M: Used to record changes in the repository
+
+GIT STATUS: Shows the current status of the repository and any unstaged changes
+
+GIT LOG: History
+
+GIT CHECKOUT <BRANCH-NAME>: To switch branches
+
+GIT BRANCH <NEW-BRANCH>: Create a branch
+
+GIT BRANCH <EXISTING-BRANCH>: List branches
+
+GIT BRANCH -D <EXISTING-BRANCH>: Delete a branch
+
+GIT REMOTE -V: To see which remote is active in the repository
+
+GIT REMOTE SET-URL ORIGIN <REPOSITORY-REMOTE-URL>: To change the remote of the repository
+
+GIT REMOTE ADD: To add a remote to the repository
+
+GIT MERGE <BRANCH-NAME>: To merge changes from a branch where you are. For example, if you have branches named user-info and user-auth and you want to merge or include the updates from those branches into the main branch, first use GIT CHECKOUT ORIGIN MAIN to switch to the main branch, then you can use GIT MERGE <BRANCH-NAME> or GIT MERGE user-info or GIT MERGE user-auth.
+
+
+
+ssh -T git@github-codehub
+
+# Set global username
+	git config --global user.name "Your Name"
+# Set global email
+	git config --global user.email "your.email@example.com"
+	git config --global --list
+
+# Set local username
+	git config user.name "Your Name"
+# Set local email
+	git config user.email "your.email@example.com"
+	git config --local --list
+
+git clone --single-branch --branch branch-name https://github.com/user/repo.git
+
+git fetch origin branch-name
+git checkout branch-name
+git pull origin branch-name
+
