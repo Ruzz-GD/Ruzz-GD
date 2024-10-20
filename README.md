@@ -8,25 +8,24 @@
 <div align="center">
     <img src="./images/html.png" alt="Html" width="80" height="80">
     <img src="./images/css.png" alt="Css" width="80" height="80">
-    <img src="./images/axios.png" alt="Axios" width="80" height="80">
-    <img src="./images/vuelogo.png" alt="Vue.js Logo" width="80" height="80">
-    <img src="./images/pylogo.png" alt="Python" width="80" height="80">
+    <img src="./images/vue.png" alt="Vue.js Logo" width="80" height="80">
+    <img src="./images/python.png" alt="Python" width="80" height="80">
     <img src="./images/flask.png" alt="Flask" width="80" height="80">
 </div>
 
 ## My Intermediate Expertise:
 <div align="center">
-    <img src="./images/fetch.png" alt="fetch" width="80" height="80">
-    <img src="./images/sqlalchemy.png" alt="sql" width="200" height="100">
-    <img src="./images/mariadb-logo.png" alt="mariadb" width="80" height="80">
+    <img src="./images/git.png" alt="git" width="80" height="80">
+    <img src="./images/js.png" alt="Js" width="80" height="80">
+    <img src="./images/mariadb.png" alt="mariadb" width="80" height="80">
     <img src="./images/mysql.png" alt="mysql" width="80" height="80">
 </div>
 
 ## My Basic Expertise:
 <div align="center">
-    <img src="./images/js.png" alt="Js" width="80" height="80">
-    <img src="./images/bootstrap.jpg" alt="bootstrap" width="80" height="80">
-    <img src="./images/postgresql.png" alt="postgres" width="80" height="80">
+    <img src="./images/php.png" alt="php" width="80" height="80">
+    <img src="./images/docker.png" alt="docker" width="80" height="80">
+    <img src="./images/postgre.png" alt="postgres" width="80" height="80">
 </div>
 
 
