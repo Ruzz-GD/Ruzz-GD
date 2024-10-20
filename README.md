@@ -24,6 +24,7 @@
 ## My Basic Expertise:
 <div align="center">
     <img src="./images/php.png" alt="php" width="80" height="80">
+    <img src="./images/godot.png" alt="godot" width="80" height="80">
     <img src="./images/docker.png" alt="docker" width="80" height="80">
     <img src="./images/postgre.png" alt="postgres" width="80" height="80">
 </div>
