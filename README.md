@@ -4,10 +4,9 @@
 </p>
 
 <!-- 🧑‍💻 NAME -->
-<!-- 🧑‍💻 NAME -->
-<h2 align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="./img/my-logo.png" alt="Ruzz Logo" width="45" height="45" style="border-radius: 10px; vertical-align: middle;" />
-  Ruzz-GD
+<h2 align="center">
+  <img src="./img/my-logo.png" alt="Ruzz Logo" width="45" height="45" style="border-radius:10px; vertical-align:middle; margin-right:8px;" />
+  <span style="vertical-align:middle;">Ruzz-GD</span>
 </h2>
 
 <p align="center">
@@ -23,12 +22,9 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VueJS-Dark.svg" title="Vue.js" alt="Vue.js" width="60" height="60"/>&nbsp;
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" title="Tailwind CSS" alt="Tailwind CSS" width="60" height="60"/>&nbsp;
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
-
-  <!-- Custom dark cards for consistency -->
-  <img src="https://raw.githubusercontent.com/aynp/tech-icons/main/icons/fastapi-dark.svg" title="FastAPI" alt="FastAPI" width="60" height="60" style="background-color:#1e1e1e; padding:6px; border-radius:10px;"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/aynp/tech-icons/main/icons/sqlalchemy-dark.svg" title="SQLAlchemy" alt="SQLAlchemy" width="60" height="60" style="background-color:#1e1e1e; padding:6px; border-radius:10px;"/>&nbsp;
-
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/aynp/tech-icons/icons/fastapi-dark.svg" title="FastAPI" alt="FastAPI" width="60" height="60" style="background-color:#1e1e1e; padding:6px; border-radius:10px;"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/aynp/tech-icons/icons/sqlalchemy-dark.svg" title="SQLAlchemy" alt="SQLAlchemy" width="60" height="60" style="background-color:#1e1e1e; padding:6px; border-radius:10px;"/>&nbsp;
 </p>
 
 <hr style="border: 0.5px solid #444;">
@@ -36,15 +32,17 @@
 ## 🚀 About Me
 
 **What I Do**
-- Build and design modern full-stack web applications  
-- Create robust APIs using **FastAPI** and **SQLAlchemy**  
-- Develop responsive UIs with **Vue.js** and **Tailwind CSS**  
+
+- Build and design modern full-stack web applications
+- Create robust APIs using **FastAPI** and **SQLAlchemy**
+- Develop responsive UIs with **Vue.js** and **Tailwind CSS**
 - Manage data-driven backends using **PostgreSQL**
 
 **Core Values**
-- Clean architecture & scalability  
-- Performance-driven development  
-- Lifelong learning & growth mindset  
+
+- Clean architecture & scalability
+- Performance-driven development
+- Lifelong learning & growth mindset
 
 <hr style="border: 0.5px solid #444;">
 
