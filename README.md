@@ -1,13 +1,14 @@
 <!-- 🌌 HEADER BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=3EE6C5&center=true&vCenter=true&width=600&lines=Ruzz-GD;Full+Stack+Web+Developer;Vue+•+FastAPI+•+PostgreSQL" alt="Typing SVG Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=3EE6C5&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Vue+•+FastAPI+•+PostgreSQL" alt="Typing SVG Banner" />
 </p>
 
 <!-- 🧑‍💻 NAME -->
-<h1 align="center">
-  <img src="./img/my-logo.png" alt="Ruzz Logo" width="40" height="40" /> 
+<!-- 🧑‍💻 NAME -->
+<h2 align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="./img/my-logo.png" alt="Ruzz Logo" width="45" height="45" style="border-radius: 10px; vertical-align: middle;" />
   Ruzz-GD
-</h1>
+</h2>
 
 <p align="center">
   <b>Full Stack Web Developer | Turning Ideas Into Scalable Web Apps</b><br>
