@@ -21,10 +21,10 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VueJS-Dark.svg" title="Vue.js" alt="Vue.js" width="60" height="60"/>&nbsp;
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" title="Tailwind CSS" alt="Tailwind CSS" width="60" height="60"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>&nbsp;
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/aynp/tech-icons/icons/fastapi-dark.svg" title="FastAPI" alt="FastAPI" width="60" height="60" style="background-color:#1e1e1e; padding:6px; border-radius:10px;"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/aynp/tech-icons/icons/sqlalchemy-dark.svg" title="SQLAlchemy" alt="SQLAlchemy" width="60" height="60" style="background-color:#1e1e1e; padding:6px; border-radius:10px;"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="60" height="60"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAlchemy" alt="SQLAlchemy" width="60" height="60"/>&nbsp;
 </p>
 
 <hr style="border: 0.5px solid #444;">
