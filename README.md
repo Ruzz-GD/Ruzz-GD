@@ -1,35 +1,36 @@
-# <img src="./my-config/images/rzlogo.png" alt="ruzz" width="30" height="30"> Ruzz
+# <img src="./my-config/images/rzlogo.png" alt="Ruzz Logo" width="30" height="30"> Ruzz-GD
 
-<p align="center">Coding Is Life</p>
-<p align="center">If you're interested in collaborating, feel free to reach out to me!</h5>
-<p align="center">I'm also available for commission work.</p>
+<p align="center">💻 Full Stack Web Developer | Building Scalable & Modern Web Applications</p>
+<p align="center">If you're interested in collaborating, feel free to reach out!</p>
+<p align="center">I'm also open for commission work.</p>
 
-## My Advanced Expertise:
-<div align="center">
-    <img src="./my-config/images/html.png" alt="Html" width="80" height="80">
-    <img src="./my-config/images/css.png" alt="Css" width="80" height="80">
-    <img src="./my-config/images/vue.png" alt="Vue.js Logo" width="80" height="80">
-    <img src="./my-config/images/python.png" alt="Python" width="80" height="80">
-    <img src="./my-config/images/flask.png" alt="Flask" width="80" height="80">
-</div>
+---
 
-## My Intermediate Expertise:
-<div align="center">
-    <img src="./my-config/images/git.png" alt="git" width="80" height="80">
-    <img src="./my-config/images/js.png" alt="Js" width="80" height="80">
-    <img src="./my-config/images/mariadb.png" alt="mariadb" width="80" height="80">
-    <img src="./my-config/images/mysql.png" alt="mysql" width="80" height="80">
-</div>
+### 🧠 Tech Stack
 
-## My Basic Expertise:
-<div align="center">
-    <img src="./my-config/images/php.png" alt="php" width="80" height="80">
-    <img src="./my-config/images/godot.png" alt="godot" width="80" height="80">
-    <img src="./my-config/images/docker.png" alt="docker" width="80" height="80">
-    <img src="./my-config/images/postgre.png" alt="postgres" width="80" height="80">
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" />
+</p>
 
+---
 
+### 🚀 About Me
 
+- 🔹 Passionate about web technologies and backend systems  
+- 🔹 Experienced with modern frontend and backend stacks  
+- 🔹 Focused on clean architecture and performance optimization  
+- 🔹 Love solving problems and learning new tools  
 
+---
 
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Ruzz-GD"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:ruzhell0909@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+</p>
