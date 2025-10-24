@@ -1,6 +1,6 @@
 <!-- 🌌 HEADER BANNER -->
 <p align="center">
-  <img src="https://i.imgur.com/1ZQZ1Zm.png" alt="Ruzz-GD Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/master/demo.gif" alt="Ruzz-GD Banner" width="100%">
 </p>
 
 <!-- 🧑‍💻 NAME -->
@@ -11,7 +11,7 @@
 
 <p align="center">
   <b>💻 Full Stack Web Developer | Turning ideas into scalable web apps</b><br>
-  <i>"Code, Create, and Evolve"</i>
+  <i>"Code. Create. Evolve."</i>
 </p>
 
 ---
@@ -20,7 +20,7 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="55" height="55"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="55" height="55"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" title="Tailwind CSS" alt="Tailwind CSS" width="55" height="55"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="55" height="55"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAlchemy" alt="SQLAlchemy" width="55" height="55"/>&nbsp;
@@ -31,16 +31,25 @@
 
 ### 🚀 About Me
 
-💡 **What I Do:**
-- Develop and design modern full-stack web apps  
-- Build REST APIs using **FastAPI** & **SQLAlchemy**  
-- Create dynamic UIs using **Vue.js** and **Tailwind CSS**  
-- Manage scalable data systems using **PostgreSQL**  
+💡 **What I Do**
+- Build and design modern full-stack web applications  
+- Create robust APIs using **FastAPI** and **SQLAlchemy**  
+- Develop responsive UIs using **Vue.js** and **Tailwind CSS**  
+- Manage relational data with **PostgreSQL**  
 
-⚙️ **Core Values:**
-- Clean architecture  
-- Performance-driven design  
-- Constant learning and exploration  
+⚙️ **Core Values**
+- Clean architecture and scalability  
+- Performance-driven development  
+- Lifelong learning and growth mindset  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ruzz-GD&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruzz-GD&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+</p>
 
 ---
 
@@ -59,5 +68,5 @@
 ---
 
 <p align="center">
-  ⚡ <i>"Coding is not just work — it's a way of thinking."</i> ⚡
+  ⚡ <i>"Coding is not just work — it's a mindset of creation."</i> ⚡
 </p>
