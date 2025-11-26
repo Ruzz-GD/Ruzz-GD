@@ -40,15 +40,6 @@
 
 <hr style="border: 0.5px solid #444;">
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruzzgd&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruzzgd&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-</p>
-
-<hr style="border: 0.5px solid #444;">
-
 ## 🌐 Connect with Me
 
 <p align="center">
