@@ -1,6 +1,6 @@
 <!-- 🌌 HEADER BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=3EE6C5&center=true&vCenter=true&width=600&lines=Ruzz-Code;Full+Stack+Web+Developer;Vue+•+FastAPI+•+PostgreSQL" alt="Typing SVG Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=3EE6C5&center=true&vCenter=true&width=600&lines=RuzzGD;Full+Stack+Web+Developer;Vue+•+FastAPI+•+PostgreSQL" alt="Typing SVG Banner" />
 </p>
 
 <p align="center">
@@ -43,8 +43,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ruzz-Code&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruzz-Code&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ruzzgd&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruzzgd&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 </p>
 
 <hr style="border: 0.5px solid #444;">
@@ -52,7 +52,7 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/Ruzz-Code" target="_blank">
+  <a href="https://github.com/ruzzgd" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;
